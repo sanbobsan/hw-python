@@ -1,11 +1,8 @@
 
-count = int(input(">> "))
-cells = {tuple(map(int, input(">> ").split())) for _ in range(count)}
+n = int(input(">> "))
+passengers = [tuple(map(int, input(">> ").split())) for _ in range(n)]
+t = int(input(">> ")); res = 0
 
-count = 0
-for row, col in cells:
-    for d_row, d_col in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
-        if (row + d_row, col + d_col) not in cells:
-            count += 1
-
-print(count)
+for a, b in passengers:
+    if a <= t <= b: res += 1
+print(res)
