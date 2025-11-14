@@ -1,0 +1,33 @@
+timestamp,name,age,phone_os,computer_os,search_engine,browser,prefer_big_techs,tech_level
+2024-01-15 10:30:00,Алексей,18-25,Android,Windows,Google,Chrome,"['Google', 'Apple']",8
+2024-01-15 11:15:00,Мария,26-35,iOS,macOS,Google,Safari,"['Apple', 'Google', 'Meta']",6
+2024-01-15 12:45:00,Дмитрий,36-45,Android,Linux,Yandex,Firefox,['Google'],9
+2024-01-15 14:20:00,Анна,18-25,iOS,Windows,Yandex,Chrome,"['Apple', 'Netflix']",5
+2024-01-15 15:30:00,Сергей,26-35,Android,Windows,Google,Edge,"['Google', 'Amazon', 'Meta']",7
+2024-01-15 16:10:00,Ольга,18-25,iOS,macOS,Google,Safari,"['Apple', 'Google', 'Meta', 'Netflix']",4
+2024-01-15 17:25:00,Иван,36-45,Android,Windows,Yandex,Chrome,"['Google', 'Amazon']",6
+2024-01-15 18:40:00,Екатерина,26-35,iOS,macOS,Bing,Safari,['Apple'],8
+2024-01-15 19:15:00,Павел,18-25,Android,Linux,Google,Firefox,"['Google', 'Meta']",9
+2024-01-15 20:05:00,Наталья,36-45,iOS,Windows,Google,Chrome,"['Apple', 'Google']",5
+2024-01-16 09:30:00,Артем,26-35,Android,Windows,Yandex,Chrome,"['Google', 'Amazon', 'Meta']",7
+2024-01-16 10:45:00,Юлия,18-25,iOS,macOS,Google,Safari,"['Apple', 'Netflix']",6
+2024-01-16 11:20:00,Максим,36-45,Другая,Linux,Google,Firefox,['Google'],8
+2024-01-16 13:15:00,Светлана,26-35,Android,Windows,Google,Edge,"['Google', 'Meta']",5
+2024-01-16 14:30:00,Роман,18-25,iOS,macOS,Bing,Safari,"['Apple', 'Google']",7
+2024-01-16 15:40:00,Алиса,26-35,Android,Windows,Yandex,Chrome,['Google'],6
+2024-01-16 16:55:00,Кирилл,36-45,iOS,Windows,Google,Chrome,"['Apple', 'Google', 'Amazon']",8
+2024-01-16 17:30:00,Виктория,18-25,Android,Linux,Google,Firefox,"['Google', 'Meta']",9
+2024-01-16 18:20:00,Андрей,26-35,iOS,macOS,Google,Safari,['Apple'],5
+2024-01-16 19:10:00,Елена,36-45,Android,Windows,Yandex,Chrome,"['Google', 'Amazon']",7
+2024-01-17 09:15:00,Денис,18-25,Android,Windows,Google,Chrome,"['Google', 'Apple', 'Meta']",6
+2024-01-17 10:30:00,Татьяна,26-35,iOS,macOS,Yandex,Safari,"['Apple', 'Netflix']",7
+2024-01-17 11:45:00,Григорий,36-45,Android,Linux,Google,Firefox,"['Google', 'Amazon']",8
+2024-01-17 13:20:00,Людмила,18-25,iOS,Windows,Bing,Chrome,['Apple'],5
+2024-01-17 14:35:00,Станислав,26-35,Android,Windows,Yandex,Edge,"['Google', 'Meta', 'Amazon']",9
+2024-01-17 15:50:00,Вероника,18-25,iOS,macOS,Google,Safari,"['Apple', 'Google']",6
+2024-01-17 16:25:00,Борис,36-45,Другая,Windows,Google,Chrome,['Google'],4
+2024-01-17 17:40:00,Зоя,26-35,Android,Linux,Yandex,Firefox,"['Google', 'Meta']",7
+2024-01-17 18:55:00,Федор,18-25,iOS,macOS,Google,Safari,"['Apple', 'Netflix', 'Google']",8
+2024-01-17 19:30:00,Лидия,36-45,Android,Windows,Yandex,Chrome,"['Google', 'Amazon', 'Meta']",6
+2025-11-14 13:25:27,Илья,18-25,Android,Linux,Yandex,Edge,"['Google', 'Netflix']",6
+2025-11-14 13:29:28,Илья,18-25,Android,Linux,Bing,Edge,"['Google', 'Netflix', 'Apple']",7
